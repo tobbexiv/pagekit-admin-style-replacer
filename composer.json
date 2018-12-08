@@ -1,0 +1,15 @@
+{
+	"name" : "tobbe/admin-style-replacer",
+	"module" : "tobbe/admin-style-replacer",
+	"version" : "1.0.0",
+	"type" : "pagekit-extension",
+	"title" : "Replace Admin Style",
+	"description" : "Example on how to replace the admin theme style.",
+	"license" : "MIT",
+	"authors" : [{
+			"name" : "Tobbe",
+			"email" : "contact@tobbexiv.de",
+			"homepage" : "https://github.com/tobbexiv/pagekit-admin-style-replacer"
+		}
+	]
+}
